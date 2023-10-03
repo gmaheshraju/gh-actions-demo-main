@@ -48,7 +48,7 @@ Endpoint: POST /submissions
 
 Description: Allows a user to submit a problem solution, with the solution being randomly accepted or rejected.
 
-##Questions
+## Questions
 
 Endpoint: GET /questions
 
