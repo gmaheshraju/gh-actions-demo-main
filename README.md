@@ -2,7 +2,7 @@
 
 Simple nodejs backend Github action build and run tests (CI)
 
-![main workflow](https://github.com/gmaheshraju/gh-actions-demo/actions/workflows/node.js.yml/badge.svg)
+![main workflow](https://github.com/gmaheshraju/gh-actions-demo-main/actions/workflows/node.js.yml/badge.svg)
 
 # Phase 2
 
