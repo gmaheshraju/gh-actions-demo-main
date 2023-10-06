@@ -6,7 +6,7 @@ Simple nodejs backend Github action build and run tests (CI)
 
 # Phase 2
 
-Include CD to any server like Digital Ocean, AWS
+Include CD part to deploy to any cloud server or open source server
 
 # Phase 3
 
