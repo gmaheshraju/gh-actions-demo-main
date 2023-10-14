@@ -10,7 +10,7 @@ Include CD part to deploy to any cloud server or open source server
 
 # Phase 3
 
-Dockerize the Appplication
+Dockerize the Appplication.
 
 # Phase 4
 
