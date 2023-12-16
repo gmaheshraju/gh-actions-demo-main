@@ -1,4 +1,4 @@
-# gh-actions-demo (Completed)
+# gh-actions-demo
 
 Simple nodejs backend Github action build and run tests (CI)
 
